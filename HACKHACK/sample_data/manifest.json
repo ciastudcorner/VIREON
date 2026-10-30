@@ -1,0 +1,25 @@
+{
+  "dataset_name": "HACKHACK Synthetic Claims Indonesia v2",
+  "total_claims": 300,
+  "locale": "Indonesia",
+  "composition": {
+    "normal_standalone": 140,
+    "cloning_positive_claims": 40,
+    "repeat_billing_positive_claims": 40,
+    "cloning_hard_negative_claims": 40,
+    "repeat_billing_hard_negative_claims": 40
+  },
+  "designed_pairs": {
+    "total": 80,
+    "cloning_positive_pairs": 20,
+    "repeat_billing_positive_pairs": 20,
+    "cloning_hard_negative_pairs": 20,
+    "repeat_billing_hard_negative_pairs": 20
+  },
+  "identity_notes": [
+    "All patient display names and birth dates are synthetic and fictitious.",
+    "PAT-001 retains a SATUSEHAT Sandbox seed identifier, but its display name and birth date in this dataset are synthetic.",
+    "No real JKN participant data are used.",
+    "Ground-truth pair labels are stored separately and must not be used as scoring input."
+  ]
+}

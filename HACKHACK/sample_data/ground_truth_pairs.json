@@ -1,0 +1,642 @@
+[
+  {
+    "pair_id": "PAIR-001",
+    "claim_a": "CLM-141",
+    "claim_b": "CLM-142",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-002",
+    "claim_a": "CLM-143",
+    "claim_b": "CLM-144",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-003",
+    "claim_a": "CLM-145",
+    "claim_b": "CLM-146",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-004",
+    "claim_a": "CLM-147",
+    "claim_b": "CLM-148",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-005",
+    "claim_a": "CLM-149",
+    "claim_b": "CLM-150",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-006",
+    "claim_a": "CLM-151",
+    "claim_b": "CLM-152",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-007",
+    "claim_a": "CLM-153",
+    "claim_b": "CLM-154",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-008",
+    "claim_a": "CLM-155",
+    "claim_b": "CLM-156",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-009",
+    "claim_a": "CLM-157",
+    "claim_b": "CLM-158",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-010",
+    "claim_a": "CLM-159",
+    "claim_b": "CLM-160",
+    "label": "cloning_positive",
+    "scenario": "exact_copy_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-011",
+    "claim_a": "CLM-161",
+    "claim_b": "CLM-162",
+    "label": "cloning_positive",
+    "scenario": "minor_edit_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-012",
+    "claim_a": "CLM-163",
+    "claim_b": "CLM-164",
+    "label": "cloning_positive",
+    "scenario": "minor_edit_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-013",
+    "claim_a": "CLM-165",
+    "claim_b": "CLM-166",
+    "label": "cloning_positive",
+    "scenario": "minor_edit_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-014",
+    "claim_a": "CLM-167",
+    "claim_b": "CLM-168",
+    "label": "cloning_positive",
+    "scenario": "minor_edit_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-015",
+    "claim_a": "CLM-169",
+    "claim_b": "CLM-170",
+    "label": "cloning_positive",
+    "scenario": "minor_edit_different_patient",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-016",
+    "claim_a": "CLM-171",
+    "claim_b": "CLM-172",
+    "label": "cloning_positive",
+    "scenario": "paraphrase_same_rare_fields",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-017",
+    "claim_a": "CLM-173",
+    "claim_b": "CLM-174",
+    "label": "cloning_positive",
+    "scenario": "paraphrase_same_rare_fields",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-018",
+    "claim_a": "CLM-175",
+    "claim_b": "CLM-176",
+    "label": "cloning_positive",
+    "scenario": "paraphrase_same_rare_fields",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-019",
+    "claim_a": "CLM-177",
+    "claim_b": "CLM-178",
+    "label": "cloning_positive",
+    "scenario": "paraphrase_same_rare_fields",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-020",
+    "claim_a": "CLM-179",
+    "claim_b": "CLM-180",
+    "label": "cloning_positive",
+    "scenario": "paraphrase_same_rare_fields",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-021",
+    "claim_a": "CLM-181",
+    "claim_b": "CLM-182",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-022",
+    "claim_a": "CLM-183",
+    "claim_b": "CLM-184",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-023",
+    "claim_a": "CLM-185",
+    "claim_b": "CLM-186",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-024",
+    "claim_a": "CLM-187",
+    "claim_b": "CLM-188",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-025",
+    "claim_a": "CLM-189",
+    "claim_b": "CLM-190",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-026",
+    "claim_a": "CLM-191",
+    "claim_b": "CLM-192",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-027",
+    "claim_a": "CLM-193",
+    "claim_b": "CLM-194",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-028",
+    "claim_a": "CLM-195",
+    "claim_b": "CLM-196",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-029",
+    "claim_a": "CLM-197",
+    "claim_b": "CLM-198",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-030",
+    "claim_a": "CLM-199",
+    "claim_b": "CLM-200",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-031",
+    "claim_a": "CLM-201",
+    "claim_b": "CLM-202",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-032",
+    "claim_a": "CLM-203",
+    "claim_b": "CLM-204",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-033",
+    "claim_a": "CLM-205",
+    "claim_b": "CLM-206",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-034",
+    "claim_a": "CLM-207",
+    "claim_b": "CLM-208",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-035",
+    "claim_a": "CLM-209",
+    "claim_b": "CLM-210",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-036",
+    "claim_a": "CLM-211",
+    "claim_b": "CLM-212",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-037",
+    "claim_a": "CLM-213",
+    "claim_b": "CLM-214",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-038",
+    "claim_a": "CLM-215",
+    "claim_b": "CLM-216",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-039",
+    "claim_a": "CLM-217",
+    "claim_b": "CLM-218",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-040",
+    "claim_a": "CLM-219",
+    "claim_b": "CLM-220",
+    "label": "repeat_billing_positive",
+    "scenario": "same_episode_resubmitted_after_previous_claim_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-041",
+    "claim_a": "CLM-221",
+    "claim_b": "CLM-222",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-042",
+    "claim_a": "CLM-223",
+    "claim_b": "CLM-224",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-043",
+    "claim_a": "CLM-225",
+    "claim_b": "CLM-226",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-044",
+    "claim_a": "CLM-227",
+    "claim_b": "CLM-228",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-045",
+    "claim_a": "CLM-229",
+    "claim_b": "CLM-230",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-046",
+    "claim_a": "CLM-231",
+    "claim_b": "CLM-232",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-047",
+    "claim_a": "CLM-233",
+    "claim_b": "CLM-234",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-048",
+    "claim_a": "CLM-235",
+    "claim_b": "CLM-236",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-049",
+    "claim_a": "CLM-237",
+    "claim_b": "CLM-238",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-050",
+    "claim_a": "CLM-239",
+    "claim_b": "CLM-240",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-051",
+    "claim_a": "CLM-241",
+    "claim_b": "CLM-242",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-052",
+    "claim_a": "CLM-243",
+    "claim_b": "CLM-244",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-053",
+    "claim_a": "CLM-245",
+    "claim_b": "CLM-246",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-054",
+    "claim_a": "CLM-247",
+    "claim_b": "CLM-248",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-055",
+    "claim_a": "CLM-249",
+    "claim_b": "CLM-250",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-056",
+    "claim_a": "CLM-251",
+    "claim_b": "CLM-252",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-057",
+    "claim_a": "CLM-253",
+    "claim_b": "CLM-254",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-058",
+    "claim_a": "CLM-255",
+    "claim_b": "CLM-256",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-059",
+    "claim_a": "CLM-257",
+    "claim_b": "CLM-258",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-060",
+    "claim_a": "CLM-259",
+    "claim_b": "CLM-260",
+    "label": "cloning_hard_negative",
+    "scenario": "same_template_or_diagnosis_but_unique_clinical_details",
+    "expected_branch": "anti_cloning"
+  },
+  {
+    "pair_id": "PAIR-061",
+    "claim_a": "CLM-261",
+    "claim_b": "CLM-262",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-062",
+    "claim_a": "CLM-263",
+    "claim_b": "CLM-264",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-063",
+    "claim_a": "CLM-265",
+    "claim_b": "CLM-266",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-064",
+    "claim_a": "CLM-267",
+    "claim_b": "CLM-268",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-065",
+    "claim_a": "CLM-269",
+    "claim_b": "CLM-270",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-066",
+    "claim_a": "CLM-271",
+    "claim_b": "CLM-272",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-067",
+    "claim_a": "CLM-273",
+    "claim_b": "CLM-274",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-068",
+    "claim_a": "CLM-275",
+    "claim_b": "CLM-276",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-069",
+    "claim_a": "CLM-277",
+    "claim_b": "CLM-278",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-070",
+    "claim_a": "CLM-279",
+    "claim_b": "CLM-280",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_patient_same_diagnosis_but_new_episode",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-071",
+    "claim_a": "CLM-281",
+    "claim_b": "CLM-282",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-072",
+    "claim_a": "CLM-283",
+    "claim_b": "CLM-284",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-073",
+    "claim_a": "CLM-285",
+    "claim_b": "CLM-286",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-074",
+    "claim_a": "CLM-287",
+    "claim_b": "CLM-288",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-075",
+    "claim_a": "CLM-289",
+    "claim_b": "CLM-290",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-076",
+    "claim_a": "CLM-291",
+    "claim_b": "CLM-292",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-077",
+    "claim_a": "CLM-293",
+    "claim_b": "CLM-294",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-078",
+    "claim_a": "CLM-295",
+    "claim_b": "CLM-296",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-079",
+    "claim_a": "CLM-297",
+    "claim_b": "CLM-298",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  },
+  {
+    "pair_id": "PAIR-080",
+    "claim_a": "CLM-299",
+    "claim_b": "CLM-300",
+    "label": "repeat_billing_hard_negative",
+    "scenario": "same_episode_but_previous_claim_not_paid",
+    "expected_branch": "anti_repeat_billing"
+  }
+]

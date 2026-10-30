@@ -1,0 +1,24 @@
+{
+  "incoming_id": "IN-RB-001",
+  "record_role": "incoming_draft",
+  "scenario": "repeat_billing_positive",
+  "sep_number": "SEP-SYN-DEMO-RB-001",
+  "episode_id": "EP-SYN-RB-001",
+  "patient_reference": "17707608",
+  "service_date": "2024-06-24",
+  "diagnosis_primary": {
+    "code": "Z491",
+    "display": "Extracorporeal dialysis"
+  },
+  "diagnosis_secondary": "N185",
+  "inacbg": {
+    "code": "N-3-15-0",
+    "display": "PROSEDUR DIALISIS"
+  },
+  "procedure": "3995",
+  "billed_amount": 896700,
+  "claim_status": "draft",
+  "payment_status": "not_applicable",
+  "comparison_target": "HIST-008",
+  "source": "synthetic_incoming_draft"
+}

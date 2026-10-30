@@ -1,0 +1,32 @@
+[
+  {
+    "practitioner_id": "PRAC-001",
+    "ihs_practitioner_id": "10009880728",
+    "role": "Dokter",
+    "source": "satusehat_sandbox_api"
+  },
+  {
+    "practitioner_id": "PRAC-002",
+    "ihs_practitioner_id": "PRAC-IHS-SYN-002",
+    "role": "Dokter",
+    "source": "synthetic_local"
+  },
+  {
+    "practitioner_id": "PRAC-003",
+    "ihs_practitioner_id": "PRAC-IHS-SYN-003",
+    "role": "Dokter",
+    "source": "synthetic_local"
+  },
+  {
+    "practitioner_id": "PRAC-004",
+    "ihs_practitioner_id": "PRAC-IHS-SYN-004",
+    "role": "Dokter",
+    "source": "synthetic_local"
+  },
+  {
+    "practitioner_id": "PRAC-005",
+    "ihs_practitioner_id": "PRAC-IHS-SYN-005",
+    "role": "Dokter",
+    "source": "synthetic_local"
+  }
+]

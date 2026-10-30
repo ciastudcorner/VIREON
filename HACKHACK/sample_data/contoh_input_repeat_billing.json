@@ -1,0 +1,52 @@
+[
+  {
+    "claim_id": "CLM-003",
+    "patient_id": "PAT-CITRA-01",
+    "practitioner_id": "PRAC-SITI-01",
+    "provider_id": "FASKES-RS-HERMINA",
+    "encounter_id": "ENC-CITRA-01",
+    "episode_id": "EP-APP-2026",
+    "service_date": "2026-08-15",
+    "claim_date": "2026-08-17",
+    "diagnosis": [
+      "K35.8"
+    ],
+    "procedure": [
+      "PROC-APP-OPEN",
+      "PROC-ANESTH-GEN"
+    ],
+    "clinical_text": "Pasien wanita 28 tahun masuk IGD dengan nyeri akut perut kanan bawah McBurney sign positif sejak 12 jam. Dilakukan laparotomi apendektomi emergensi dengan anestesi umum.",
+    "rare_fields": {
+      "leukocyte": "16800",
+      "alvarado_score": "8"
+    },
+    "billed_amount": 7500000,
+    "claim_status": "paid",
+    "paid_date": "2026-08-25",
+    "data_source": "synthetic"
+  },
+  {
+    "claim_id": "CLM-004",
+    "patient_id": "PAT-CITRA-01",
+    "practitioner_id": "PRAC-SITI-01",
+    "provider_id": "FASKES-RS-HERMINA",
+    "encounter_id": "ENC-CITRA-01",
+    "episode_id": "EP-APP-2026",
+    "service_date": "2026-08-15",
+    "claim_date": "2026-09-02",
+    "diagnosis": [
+      "K35.8"
+    ],
+    "procedure": [
+      "PROC-APP-OPEN",
+      "PROC-ANESTH-GEN"
+    ],
+    "clinical_text": "Laporan tindakan pembedahan apendektomi terbuka pada kasus apendisitis akut. Insisi gridiron pada titik McBurney, eksisi apendiks gangrenosa, hemostasis terkontrol baik.",
+    "rare_fields": {
+      "leukocyte": "16800"
+    },
+    "billed_amount": 7500000,
+    "claim_status": "submitted",
+    "data_source": "synthetic"
+  }
+]

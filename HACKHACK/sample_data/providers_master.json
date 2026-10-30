@@ -1,0 +1,20 @@
+[
+  {
+    "provider_id": "FASKES-001",
+    "provider_name": "RS Sehat Sentosa",
+    "provider_type": "Rumah Sakit",
+    "hospital_class": "B"
+  },
+  {
+    "provider_id": "FASKES-002",
+    "provider_name": "RS Harapan Medika",
+    "provider_type": "Rumah Sakit",
+    "hospital_class": "C"
+  },
+  {
+    "provider_id": "FASKES-003",
+    "provider_name": "Klinik Pratama Nusantara",
+    "provider_type": "Klinik",
+    "hospital_class": null
+  }
+]

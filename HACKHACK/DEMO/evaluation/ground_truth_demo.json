@@ -1,0 +1,12 @@
+[
+  {
+    "incoming_id": "IN-RB-001",
+    "comparison_target": "HIST-008",
+    "expected_label": "repeat_billing_positive"
+  },
+  {
+    "incoming_id": "IN-CL-001",
+    "comparison_target": "HIST-011",
+    "expected_label": "cloning_positive"
+  }
+]

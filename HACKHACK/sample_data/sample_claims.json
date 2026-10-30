@@ -1,0 +1,43 @@
+[
+  {
+    "claim_id": "CLM-UPLOAD-001",
+    "patient_id": "PAT-TEST-01",
+    "practitioner_id": "DR-ANWAR-01",
+    "provider_id": "FASKES-RSUD-KOTA",
+    "encounter_id": "ENC-TEST-100",
+    "episode_id": "EP-TEST-100",
+    "service_date": "2026-09-01",
+    "claim_date": "2026-09-03",
+    "diagnosis": ["J18.9", "R50.9"],
+    "procedure": ["PROC-CXR", "PROC-LAB-FULL"],
+    "clinical_text": "Pasien datang dengan batuk produktif kental dan demam tinggi sejak 3 hari. Auskultasi ronki basah basal kanan. Diberikan antibiotik ceftriaxone 2x1g iv dan nebulisasi ventolin.",
+    "rare_fields": {
+      "crp_mg_l": "52.1",
+      "spo2_pct": "92"
+    },
+    "billed_amount": 3200000,
+    "claim_status": "paid",
+    "paid_date": "2026-09-10",
+    "data_source": "external_upload"
+  },
+  {
+    "claim_id": "CLM-UPLOAD-002",
+    "patient_id": "PAT-TEST-02",
+    "practitioner_id": "DR-ANWAR-01",
+    "provider_id": "FASKES-RSUD-KOTA",
+    "encounter_id": "ENC-TEST-101",
+    "episode_id": "EP-TEST-101",
+    "service_date": "2026-09-04",
+    "claim_date": "2026-09-06",
+    "diagnosis": ["J18.9", "R50.9"],
+    "procedure": ["PROC-CXR", "PROC-LAB-FULL"],
+    "clinical_text": "Pasien datang dengan batuk produktif kental dan demam tinggi sejak 3 hari. Auskultasi ronki basah basal kanan. Diberikan antibiotik ceftriaxone 2x1g iv dan nebulisasi ventolin.",
+    "rare_fields": {
+      "crp_mg_l": "52.1",
+      "spo2_pct": "92"
+    },
+    "billed_amount": 3200000,
+    "claim_status": "submitted",
+    "data_source": "external_upload"
+  }
+]

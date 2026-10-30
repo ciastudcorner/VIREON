@@ -1,0 +1,53 @@
+[
+  {
+    "claim_id": "CLM-001",
+    "patient_id": "PAT-001",
+    "practitioner_id": "PRAC-001",
+    "provider_id": "FASKES-01",
+    "encounter_id": "ENC-001",
+    "episode_id": "EP-001",
+    "service_date": "2026-09-01",
+    "claim_date": "2026-09-02",
+    "diagnosis": [
+      "J18.9"
+    ],
+    "procedure": [
+      "PROC-CXR"
+    ],
+    "clinical_text": "Pasien datang dengan demam akut 39.2C sejak 3 hari disertai sesak napas berat dan batuk berdahak purulen kecoklatan. Auskultasi thoraks: vesikuler menurun pada hemithoraks dekstra bawah dengan ronki basah kasar difus. Diberikan oksigenasi nasal kanul 4 lpm dan antibiotik empirik lini kedua ceftriaxone iv. Foto rontgen thoraks menunjukkan infiltrat peribronkial segmental lobus inferior dekstra.",
+    "rare_fields": {
+      "crp": "48",
+      "spo2": "92",
+      "d_dimer": "820"
+    },
+    "billed_amount": 850000,
+    "claim_status": "paid",
+    "paid_date": "2026-09-08",
+    "data_source": "synthetic"
+  },
+  {
+    "claim_id": "CLM-002",
+    "patient_id": "PAT-002",
+    "practitioner_id": "PRAC-001",
+    "provider_id": "FASKES-01",
+    "encounter_id": "ENC-002",
+    "episode_id": "EP-002",
+    "service_date": "2026-09-04",
+    "claim_date": "2026-09-05",
+    "diagnosis": [
+      "J18.9"
+    ],
+    "procedure": [
+      "PROC-CXR"
+    ],
+    "clinical_text": "Pasien datang dengan demam akut 39.2C sejak 3 hari disertai sesak napas berat dan batuk berdahak purulen kecoklatan. Auskultasi thoraks: vesikuler menurun pada hemithoraks dekstra bawah dengan ronki basah kasar difus. Diberikan oksigenasi nasal kanul 4 lpm dan antibiotik empirik lini kedua ceftriaxone iv. Foto rontgen thoraks menunjukkan infiltrat peribronkial segmental lobus inferior dekstra.",
+    "rare_fields": {
+      "crp": "48",
+      "spo2": "92",
+      "d_dimer": "820"
+    },
+    "billed_amount": 850000,
+    "claim_status": "submitted",
+    "data_source": "synthetic"
+  }
+]
